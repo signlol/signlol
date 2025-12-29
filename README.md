@@ -6,7 +6,7 @@
 # sign
 ` signlol `
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=%F0%9F%91%BE+Hello!+I%E2%80%99m+Keen;%F0%9F%94%A7+Experienced+Python+%26+Go+Developer;%F0%9F%A9%B8+I+build+self-bots+and+toolz;dm+me+on+tele+for+any+inquires)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=%F0%9F%91%BE+Hello!+I%E2%80%99m+Sign;%F0%9F%A9%B8+I+build+self-bots+and+toolz;dm+me+on+tele+for+any+inquires)](https://git.io/typing-svg)
 
 ---
 
